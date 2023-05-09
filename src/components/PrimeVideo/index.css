@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.prime-app {
+  height: 100vh;
+  font-family: Roboto;
+}
+.prime-img {
+  height: 250px;
+  width: 100%;
+}
+.movies-container {
+  margin-top: 0px;
+  background-color: black;
+
+  padding: 32px;
+}
+.action-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+}
+.comedy-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+}
